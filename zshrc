@@ -107,3 +107,4 @@ GOPATH3=/Users/seveniu/project/self/go
      --disturl=https://npm.taobao.org/dist \
      --userconfig=$HOME/.cnpmrc"
  alias brevent='adb -d shell sh /data/data/me.piebridge.brevent/brevent.sh'
+ alias ll='ls -alh'
